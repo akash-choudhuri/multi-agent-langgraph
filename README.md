@@ -531,10 +531,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: [agentic-ai@company.com](mailto:agentic-ai@company.com)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/Agentic_AI/discussions)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/Agentic_AI/issues)
-- 📖 **Documentation**: [docs.agentic-ai.com](https://docs.agentic-ai.com)
+- 📧 **Email**: [cakash18@gmail.com](mailto:cakash18@gmail.com)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/akash-choudhuri/Agentic_AI/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/akash-choudhuri/Agentic_AI/issues)
 
 ---
 
@@ -542,7 +541,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ If this project helps you, please consider giving it a star! ⭐**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/Agentic_AI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yourusername/Agentic_AI/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/akash-choudhuri/Agentic_AI.svg?style=social&label=Star&maxAge=2592000)](https://github.com/akash-choudhuri/Agentic_AI/stargazers)
 
 **🤖 Building the Future of Collaborative AI 🤖**
 
